@@ -36,4 +36,5 @@ private:
     QString m_filePath;
 };
 
+//
 #endif
